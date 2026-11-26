@@ -17,4 +17,6 @@ elif palpite > num:
     print('Tente um número menor')
 
 else:
+    print(f'Número escolhido: {num}')
+    print(f'Palpite escolhido: {palpite}')
     print('Parabéns você acertou!')
